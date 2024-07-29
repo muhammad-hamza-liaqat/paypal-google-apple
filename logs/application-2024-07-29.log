@@ -1,0 +1,4 @@
+2024-07-29 09:44:50 info: GET /api/checkout
+2024-07-29 09:44:50 info: GET /api/checkout - 404 - 10.354 ms - PostmanRuntime/7.40.0
+2024-07-29 09:44:55 info: POST /api/checkout
+2024-07-29 09:44:55 info: POST /checkout - 200 - 4.392 ms - PostmanRuntime/7.40.0
