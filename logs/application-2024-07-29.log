@@ -2,3 +2,11 @@
 2024-07-29 09:44:50 info: GET /api/checkout - 404 - 10.354 ms - PostmanRuntime/7.40.0
 2024-07-29 09:44:55 info: POST /api/checkout
 2024-07-29 09:44:55 info: POST /checkout - 200 - 4.392 ms - PostmanRuntime/7.40.0
+2024-07-29 09:57:36 info: POST /api/checkout
+2024-07-29 09:57:38 info: POST /checkout - 500 - 2,172.703 ms - PostmanRuntime/7.40.0
+2024-07-29 09:59:13 info: POST /api/checkout
+2024-07-29 09:59:14 info: POST /checkout - 500 - 812.075 ms - PostmanRuntime/7.40.0
+2024-07-29 09:59:47 info: POST /api/checkout
+2024-07-29 09:59:47 info: POST /checkout - 500 - 768.101 ms - PostmanRuntime/7.40.0
+2024-07-29 10:03:31 info: POST /api/checkout
+2024-07-29 10:03:32 info: POST /checkout - 500 - 1,175.477 ms - PostmanRuntime/7.40.0
