@@ -1,0 +1,18 @@
+2024-07-30 09:50:26 info: POST /api/checkout
+2024-07-30 09:50:28 info: POST /checkout - 500 - 1,937.891 ms - PostmanRuntime/7.40.0
+2024-07-30 09:51:47 info: POST /api/checkout
+2024-07-30 09:51:49 info: POST /checkout - 500 - 1,442.907 ms - PostmanRuntime/7.40.0
+2024-07-30 09:54:22 info: POST /api/checkout
+2024-07-30 09:54:24 info: POST /checkout - 500 - 2,404.134 ms - PostmanRuntime/7.40.0
+2024-07-30 10:02:36 info: POST /api/checkout
+2024-07-30 10:02:41 info: POST /checkout - 500 - 5,630.924 ms - PostmanRuntime/7.40.0
+2024-07-30 10:03:42 info: POST /api/checkout
+2024-07-30 10:03:47 info: POST /checkout - 500 - 5,224.282 ms - PostmanRuntime/7.40.0
+2024-07-30 10:06:28 info: POST /api/checkout
+2024-07-30 10:06:31 info: POST /checkout - 500 - 2,209.237 ms - PostmanRuntime/7.40.0
+2024-07-30 10:08:14 info: POST /api/checkout
+2024-07-30 10:08:16 info: POST /checkout - 500 - 1,639.087 ms - PostmanRuntime/7.40.0
+2024-07-30 10:10:25 info: POST /api/checkout
+2024-07-30 10:10:27 info: POST /checkout - 500 - 1,878.619 ms - PostmanRuntime/7.40.0
+2024-07-30 10:11:27 info: POST /api/checkout
+2024-07-30 10:11:29 info: POST /checkout - 200 - 1,740.293 ms - PostmanRuntime/7.40.0

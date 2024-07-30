@@ -24,5 +24,5 @@ app.use("/api", paypalRoutes);
 
 
 app.listen(process.env.PORT, () => {
-  console.log(`server is running at http://${process.env.PORT}`)
+  console.log(`server is running at http://${process.env.PORT}/`)
 })
