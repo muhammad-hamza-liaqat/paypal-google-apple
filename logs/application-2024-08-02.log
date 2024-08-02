@@ -1,0 +1,42 @@
+2024-08-02 12:55:06 info: GET /api/checkout
+2024-08-02 12:55:06 info: GET /api/checkout - 404 - 11.721 ms - PostmanRuntime/7.40.0
+2024-08-02 12:55:10 info: POST /api/checkout
+2024-08-02 12:55:10 info: POST /checkout - 400 - 3.824 ms - PostmanRuntime/7.40.0
+2024-08-02 12:55:43 info: POST /api/checkout
+2024-08-02 12:55:43 info: POST /checkout - 400 - 3.144 ms - PostmanRuntime/7.40.0
+2024-08-02 12:59:27 info: POST /api/checkout
+2024-08-02 12:59:27 info: POST /checkout - 400 - 2.349 ms - PostmanRuntime/7.40.0
+2024-08-02 12:59:49 info: POST /api/checkout
+2024-08-02 12:59:49 info: POST /checkout - 400 - 19.429 ms - PostmanRuntime/7.40.0
+2024-08-02 13:00:49 info: POST /api/checkout
+2024-08-02 13:00:53 info: POST /checkout - 200 - 4,133.503 ms - PostmanRuntime/7.40.0
+2024-08-02 14:35:22 info: GET /api/paypal/product
+2024-08-02 14:35:22 info: GET /api/paypal/product - 404 - 18.612 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36
+2024-08-02 15:12:24 info: POST /api/checkout
+2024-08-02 15:12:24 info: POST /checkout - 500 - 13.302 ms - PostmanRuntime/7.40.0
+2024-08-02 15:15:03 info: POST /api/checkout
+2024-08-02 15:15:05 info: POST /checkout - 200 - 2,163.768 ms - PostmanRuntime/7.40.0
+2024-08-02 15:19:26 info: POST /api/checkout
+2024-08-02 15:19:28 info: POST /checkout - 200 - 1,648.697 ms - PostmanRuntime/7.40.0
+2024-08-02 15:21:54 info: POST /api/checkout
+2024-08-02 15:21:56 info: POST /checkout - 200 - 1,951.064 ms - PostmanRuntime/7.40.0
+2024-08-02 15:22:28 info: POST /api/checkout
+2024-08-02 15:22:30 info: POST /checkout - 200 - 1,468.031 ms - PostmanRuntime/7.40.0
+2024-08-02 15:25:48 info: POST /api/checkout
+2024-08-02 15:25:49 info: POST /checkout - 500 - 1,313.187 ms - PostmanRuntime/7.40.0
+2024-08-02 15:25:57 info: POST /api/checkout
+2024-08-02 15:25:58 info: POST /checkout - 500 - 753.605 ms - PostmanRuntime/7.40.0
+2024-08-02 15:27:40 info: POST /api/checkout
+2024-08-02 15:27:42 info: POST /checkout - 500 - 1,127.863 ms - PostmanRuntime/7.40.0
+2024-08-02 15:28:01 info: POST /api/checkout
+2024-08-02 15:28:01 info: POST /checkout - 500 - 676.529 ms - PostmanRuntime/7.40.0
+2024-08-02 15:29:31 info: POST /api/token
+2024-08-02 15:29:31 info: POST /token - 500 - 10.029 ms - PostmanRuntime/7.40.0
+2024-08-02 15:29:56 info: POST /api/token
+2024-08-02 15:29:56 info: POST /token - 500 - 2.595 ms - PostmanRuntime/7.40.0
+2024-08-02 15:31:08 info: POST /api/token
+2024-08-02 15:31:10 info: POST /token - 200 - 2,126.093 ms - PostmanRuntime/7.40.0
+2024-08-02 15:33:26 info: POST /api/checkout
+2024-08-02 15:33:27 info: POST /checkout - 500 - 1,694.837 ms - PostmanRuntime/7.40.0
+2024-08-02 15:33:43 info: POST /api/checkout
+2024-08-02 15:33:44 info: POST /checkout - 200 - 1,433.179 ms - PostmanRuntime/7.40.0
