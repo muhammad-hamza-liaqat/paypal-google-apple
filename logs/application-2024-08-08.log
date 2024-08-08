@@ -1,0 +1,14 @@
+2024-08-08 10:07:31 info: GET /sitemap.xml
+2024-08-08 10:07:31 info: GET /sitemap.xml - 200 - 82.138 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36
+2024-08-08 10:07:31 info: GET /favicon.ico
+2024-08-08 10:07:31 info: GET /favicon.ico - 404 - 8.012 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36
+2024-08-08 10:10:49 info: GET /sitemap.xml
+2024-08-08 10:10:49 info: GET /sitemap.xml - 500 - 64.322 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36
+2024-08-08 10:12:29 info: GET /sitemap.xml
+2024-08-08 10:12:29 info: GET /sitemap.xml - 200 - 118.959 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36
+2024-08-08 10:16:16 info: GET /sitemap.xml
+2024-08-08 10:16:16 info: GET /sitemap.xml - 200 - 150.746 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36
+2024-08-08 10:29:37 info: GET /sitemap.xml
+2024-08-08 10:29:38 info: GET /sitemap.xml - 404 - 80.465 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36
+2024-08-08 10:29:54 info: GET /sitemap.xml
+2024-08-08 10:29:55 info: GET /sitemap.xml - 200 - 104.738 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36
