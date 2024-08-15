@@ -5,7 +5,7 @@ const bodyParser = require("body-parser");
 const app = express()
 require("dotenv").config();
 const { logger, logRequestDuration } = require("./utils/logger");
-
+require("./utils/nodeCronJob");
 
 // middleware config
 app.use(express.json());
