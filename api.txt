@@ -4,3 +4,5 @@ http://localhost:3000/api/checkout
     "paymentMethodNonce": "fake-valid-nonce"
 }
 http://localhost:3000/api/token
+
+node cron functionality added 
