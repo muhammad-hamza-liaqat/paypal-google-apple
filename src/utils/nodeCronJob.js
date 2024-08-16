@@ -3,7 +3,7 @@ const cron = require('node-cron')
 
 let encryptedClient
 if (!encryptedClient) {
-    encryptedClient = new MongoClient(`${process.env.MONGODB_URL}?loadBalanced=true`)
+    encryptedClient = new MongoClient(`${process.env.MONGODB_URL}`)
 }
 
 async function deleteOldRecords() {
